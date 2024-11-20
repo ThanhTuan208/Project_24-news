@@ -26,7 +26,7 @@
                 <form action="result.php" method="GET" class="d-flex justify-content-center">
                     <input type="text" class="form-control" name="keyword" placeholder="Search for news..."
                         style="max-width: 300px;">
-                    <button type="submit" class="btn btn-primary ml-2">
+                    <button type="submit" class="btn btn-warning ml-2">
                         <i class="fa fa-search"></i> Search
                     </button>
                 </form>
